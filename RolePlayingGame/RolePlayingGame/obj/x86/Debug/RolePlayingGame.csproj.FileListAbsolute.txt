@@ -1,0 +1,29 @@
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\RolePlayingGame.exe
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\RolePlayingGame.pdb
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\obj\x86\Debug\RolePlayingGame.csprojResolveAssemblyReference.cache
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\obj\x86\Debug\RolePlayingGame.exe
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\obj\x86\Debug\RolePlayingGame.pdb
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\Content\player.png
+C:\Users\Estag4\AppData\Local\Temporary Projects\RolePlayingGame\bin\Windows\Debug\Content\back.png
+C:\Users\Estag4\documents\visual studio 2010\Projects\RolePlayingGame\RolePlayingGame\obj\x86\Debug\RolePlayingGame.exe
+C:\Users\Estag4\documents\visual studio 2010\Projects\RolePlayingGame\RolePlayingGame\obj\x86\Debug\RolePlayingGame.pdb
